@@ -1,0 +1,156 @@
+2021-02-09 09:49:00.451072
+fan on 
+cpu temp : 55.5 
+temp and fan func : 5550 
+on time datedata : 09492Serial value  : 35302480 
+Humd : 35.30 %  //  Temp : 24.80 C 
+
+/home/pi/dht-i2cpanel/save_log/2021-02-02-Tue-09-48is deleted
+2021-02-09 09:49:02.614152
+fan on 
+cpu temp : 54.5 
+temp and fan func : 5450 
+on time datedata : 09492Serial value  : 35302480 
+Humd : 35.30 %  //  Temp : 24.80 C 
+
+2021-02-09 09:49:04.821900
+fan on 
+cpu temp : 56.4 
+temp and fan func : 5640 
+on time datedata : 09492Serial value  : 35302480 
+Humd : 35.30 %  //  Temp : 24.80 C 
+
+2021-02-09 09:49:07.027582
+fan on 
+cpu temp : 52.1 
+temp and fan func : 5210 
+Serial value  : 35402472 
+Humd : 35.40 %  //  Temp : 24.72 C 
+
+2021-02-09 09:49:09.222898
+fan on 
+cpu temp : 51.1 
+temp and fan func : 5110 
+Serial value  : 35502480 
+Humd : 35.50 %  //  Temp : 24.80 C 
+
+2021-02-09 09:49:11.403670
+fan on 
+cpu temp : 50.6 
+temp and fan func : 5060 
+Serial value  : 35702480 
+Humd : 35.70 %  //  Temp : 24.80 C 
+
+2021-02-09 09:49:13.594658
+fan on 
+cpu temp : 50.1 
+temp and fan func : 5010 
+Serial value  : 35802480 
+Humd : 35.80 %  //  Temp : 24.80 C 
+
+2021-02-09 09:49:15.785735cpu temp : 49.1 
+temp and fan func : 4910 
+Serial value  : 35902480 
+Humd : 35.90 %  //  Temp : 24.80 C 
+
+2021-02-09 09:49:17.982970cpu temp : 49.1 
+temp and fan func : 4910 
+Serial value  : 36002480 
+Humd : 36.00 %  //  Temp : 24.80 C 
+
+2021-02-09 09:49:20.176623cpu temp : 49.1 
+temp and fan func : 4910 
+Serial value  : 36002480 
+Humd : 36.00 %  //  Temp : 24.80 C 
+
+2021-02-09 09:49:22.380490cpu temp : 49.6 
+temp and fan func : 4960 
+Serial value  : 36002480 
+Humd : 36.00 %  //  Temp : 24.80 C 
+
+2021-02-09 09:49:24.528738cpu temp : 49.6 
+temp and fan func : 4960 
+Serial value  : 36102488 
+Humd : 36.10 %  //  Temp : 24.88 C 
+
+2021-02-09 09:49:26.716326cpu temp : 49.1 
+temp and fan func : 4910 
+Serial value  : 36102480 
+Humd : 36.10 %  //  Temp : 24.80 C 
+
+2021-02-09 09:49:28.912775cpu temp : 49.1 
+temp and fan func : 4910 
+Serial value  : 36102488 
+Humd : 36.10 %  //  Temp : 24.88 C 
+
+2021-02-09 09:49:31.116977cpu temp : 49.1 
+temp and fan func : 4910 
+Serial value  : 35902480 
+Humd : 35.90 %  //  Temp : 24.80 C 
+
+2021-02-09 09:49:33.327057cpu temp : 48.2 
+temp and fan func : 4820 
+Serial value  : 35802480 
+Humd : 35.80 %  //  Temp : 24.80 C 
+
+2021-02-09 09:49:35.530362cpu temp : 47.7 
+temp and fan func : 4770 
+Serial value  : 35702480 
+Humd : 35.70 %  //  Temp : 24.80 C 
+
+2021-02-09 09:49:37.720682cpu temp : 47.2 
+temp and fan func : 4720 
+Serial value  : 35702480 
+Humd : 35.70 %  //  Temp : 24.80 C 
+
+2021-02-09 09:49:39.899007cpu temp : 47.2 
+temp and fan func : 4720 
+Serial value  : 35602488 
+Humd : 35.60 %  //  Temp : 24.88 C 
+
+2021-02-09 09:49:42.100159cpu temp : 48.7 
+temp and fan func : 4870 
+Serial value  : 35602480 
+Humd : 35.60 %  //  Temp : 24.80 C 
+
+2021-02-09 09:49:44.273082cpu temp : 48.2 
+temp and fan func : 4820 
+Serial value  : 35502480 
+Humd : 35.50 %  //  Temp : 24.80 C 
+
+2021-02-09 09:49:46.454521cpu temp : 47.7 
+temp and fan func : 4770 
+Serial value  : 35502480 
+Humd : 35.50 %  //  Temp : 24.80 C 
+
+2021-02-09 09:49:48.664622cpu temp : 47.7 
+temp and fan func : 4770 
+Serial value  : 35502480 
+Humd : 35.50 %  //  Temp : 24.80 C 
+
+2021-02-09 09:49:50.836987cpu temp : 48.2 
+temp and fan func : 4820 
+Serial value  : 35502480 
+Humd : 35.50 %  //  Temp : 24.80 C 
+
+2021-02-09 09:49:53.026806cpu temp : 47.2 
+temp and fan func : 4720 
+Serial value  : 35502480 
+Humd : 35.50 %  //  Temp : 24.80 C 
+
+2021-02-09 09:49:55.227768cpu temp : 46.2 
+temp and fan func : 4620 
+Serial value  : 35502480 
+Humd : 35.50 %  //  Temp : 24.80 C 
+
+2021-02-09 09:49:57.429851cpu temp : 47.7 
+temp and fan func : 4770 
+Serial value  : 35502480 
+Humd : 35.50 %  //  Temp : 24.80 C 
+
+2021-02-09 09:49:59.605564cpu temp : 47.2 
+temp and fan func : 4720 
+Serial value  : 35502480 
+Humd : 35.50 %  //  Temp : 24.80 C 
+
+/home/pi/dht-i2cpanel/save_log/2021-02-02-Tue-09-49is deleted

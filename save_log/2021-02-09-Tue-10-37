@@ -1,0 +1,136 @@
+2021-02-09 10:37:01.544954cpu temp : 42.8 
+temp and fan func : 4280 
+on time datedata : 10372Serial value  : 34502448 
+Humd : 34.50 %  //  Temp : 24.48 C 
+
+2021-02-09 10:37:03.720032cpu temp : 42.3 
+temp and fan func : 4230 
+on time datedata : 10372Serial value  : 34502448 
+Humd : 34.50 %  //  Temp : 24.48 C 
+
+2021-02-09 10:37:05.876896cpu temp : 42.3 
+temp and fan func : 4230 
+Serial value  : 34502448 
+Humd : 34.50 %  //  Temp : 24.48 C 
+
+2021-02-09 10:37:08.076541cpu temp : 41.3 
+temp and fan func : 4130 
+Serial value  : 34502448 
+Humd : 34.50 %  //  Temp : 24.48 C 
+
+2021-02-09 10:37:10.274144cpu temp : 42.3 
+temp and fan func : 4230 
+Serial value  : 34502448 
+Humd : 34.50 %  //  Temp : 24.48 C 
+
+2021-02-09 10:37:12.434932cpu temp : 42.8 
+temp and fan func : 4280 
+Serial value  : 34502448 
+Humd : 34.50 %  //  Temp : 24.48 C 
+
+2021-02-09 10:37:14.635768cpu temp : 41.3 
+temp and fan func : 4130 
+Serial value  : 34502448 
+Humd : 34.50 %  //  Temp : 24.48 C 
+
+2021-02-09 10:37:16.821105cpu temp : 41.8 
+temp and fan func : 4180 
+Serial value  : 34502448 
+Humd : 34.50 %  //  Temp : 24.48 C 
+
+2021-02-09 10:37:19.012903cpu temp : 41.8 
+temp and fan func : 4180 
+Serial value  : 34502448 
+Humd : 34.50 %  //  Temp : 24.48 C 
+
+2021-02-09 10:37:21.214923cpu temp : 42.3 
+temp and fan func : 4230 
+Serial value  : 34502448 
+Humd : 34.50 %  //  Temp : 24.48 C 
+
+2021-02-09 10:37:23.391116cpu temp : 42.8 
+temp and fan func : 4280 
+Serial value  : 34502448 
+Humd : 34.50 %  //  Temp : 24.48 C 
+
+2021-02-09 10:37:25.558736cpu temp : 42.3 
+temp and fan func : 4230 
+Serial value  : 34502448 
+Humd : 34.50 %  //  Temp : 24.48 C 
+
+2021-02-09 10:37:27.735100cpu temp : 41.3 
+temp and fan func : 4130 
+Serial value  : 34502448 
+Humd : 34.50 %  //  Temp : 24.48 C 
+
+2021-02-09 10:37:29.939271cpu temp : 42.8 
+temp and fan func : 4280 
+Serial value  : 34502448 
+Humd : 34.50 %  //  Temp : 24.48 C 
+
+2021-02-09 10:37:32.114745cpu temp : 42.3 
+temp and fan func : 4230 
+Serial value  : 34502448 
+Humd : 34.50 %  //  Temp : 24.48 C 
+
+2021-02-09 10:37:34.286717cpu temp : 41.8 
+temp and fan func : 4180 
+Serial value  : 34502448 
+Humd : 34.50 %  //  Temp : 24.48 C 
+
+2021-02-09 10:37:36.468253cpu temp : 41.8 
+temp and fan func : 4180 
+Serial value  : 34502448 
+Humd : 34.50 %  //  Temp : 24.48 C 
+
+2021-02-09 10:37:38.630961cpu temp : 42.3 
+temp and fan func : 4230 
+Serial value  : 34502448 
+Humd : 34.50 %  //  Temp : 24.48 C 
+
+2021-02-09 10:37:40.859771cpu temp : 40.9 
+temp and fan func : 4090 
+Serial value  : 34502448 
+Humd : 34.50 %  //  Temp : 24.48 C 
+
+2021-02-09 10:37:43.053927cpu temp : 41.8 
+temp and fan func : 4180 
+Serial value  : 34502448 
+Humd : 34.50 %  //  Temp : 24.48 C 
+
+2021-02-09 10:37:45.250527cpu temp : 40.9 
+temp and fan func : 4090 
+Serial value  : 34502448 
+Humd : 34.50 %  //  Temp : 24.48 C 
+
+2021-02-09 10:37:47.445654cpu temp : 41.3 
+temp and fan func : 4130 
+Serial value  : 34502448 
+Humd : 34.50 %  //  Temp : 24.48 C 
+
+2021-02-09 10:37:49.631083cpu temp : 42.8 
+temp and fan func : 4280 
+Serial value  : 34502448 
+Humd : 34.50 %  //  Temp : 24.48 C 
+
+2021-02-09 10:37:51.823984cpu temp : 41.3 
+temp and fan func : 4130 
+Serial value  : 34502448 
+Humd : 34.50 %  //  Temp : 24.48 C 
+
+2021-02-09 10:37:54.013898cpu temp : 41.8 
+temp and fan func : 4180 
+Serial value  : 34502448 
+Humd : 34.50 %  //  Temp : 24.48 C 
+
+2021-02-09 10:37:56.212572cpu temp : 41.3 
+temp and fan func : 4130 
+Serial value  : 34502448 
+Humd : 34.50 %  //  Temp : 24.48 C 
+
+2021-02-09 10:37:58.389227cpu temp : 42.3 
+temp and fan func : 4230 
+Serial value  : 34502448 
+Humd : 34.50 %  //  Temp : 24.48 C 
+
+/home/pi/dht-i2cpanel/save_log/2021-02-02-Tue-10-37is deleted

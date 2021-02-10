@@ -1,0 +1,370 @@
+2021-02-10 16:14:38.290704cpu temp : 43.3 
+temp and fan func : 4330 
+Serial value  : 40202620 
+Humd : 40.20 %  //  Temp : 26.20 C 
+
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-05is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-34is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-20is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-59is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-26is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-57is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-20is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-10is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-01is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-12is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-08is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-09is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-50is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-33is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-48is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-00is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-37is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-57is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-02is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-08is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-28is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-03is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-16-08is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-41is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-54is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-52is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-54is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-28is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-14is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-29is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-54is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-15is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-11is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-45is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-26is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-16-05is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-31is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-39is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-19is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-34is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-04is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-16is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-43is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-13is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-00is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-05is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-57is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-35is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-13is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-01is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-41is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-00is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-05is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-56is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-18is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-53is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-12is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-11is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-32is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-04is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-06is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-10is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-39is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-40is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-22is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-18is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-44is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-56is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-37is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-10is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-34is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-59is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-44is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-46is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-40is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-27is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-07is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-16is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-17is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-16is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-36is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-25is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-47is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-16-11is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-16-02is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-43is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-13is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-06is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-11is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-45is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-35is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-03is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-32is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-44is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-24is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-38is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-55is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-15is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-43is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-22is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-59is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-07is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-51is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-29is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-42is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-39is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-02is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-15is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-35is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-13is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-31is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-56is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-53is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-12is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-41is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-53is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-21is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-34is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-46is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-10is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-27is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-22is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-01is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-02is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-49is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-46is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-58is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-30is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-54is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-38is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-26is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-15is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-30is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-48is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-16-00is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-33is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-23is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-09is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-37is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-54is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-10-59is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-43is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-36is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-07is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-08is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-36is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-17is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-23is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-49is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-38is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-09is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-28is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-01is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-29is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-21is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-03is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-51is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-32is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-16-03is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-08is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-29is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-59is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-47is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-22is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-14is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-42is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-09is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-40is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-52is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-24is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-55is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-18is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-23is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-21is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-31is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-24is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-34is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-02is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-46is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-01is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-21is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-16-12is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-53is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-03is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-26is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-08is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-59is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-48is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-25is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-33is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-30is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-27is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-51is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-10is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-37is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-16-07is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-58is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-55is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-25is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-42is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-44is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-24is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-43is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-14is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-00is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-14is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-32is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-39is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-27is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-16-01is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-36is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-40is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-45is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-40is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-50is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-12is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-48is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-51is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-06is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-24is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-36is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-26is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-35is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-30is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-52is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-19is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-07is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-07is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-04is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-57is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-21is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-55is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-17is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-13is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-17is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-03is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-19is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-33is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-58is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-47is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-47is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-16-04is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-20is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-31is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-05is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-55is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-29is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-56is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-53is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-18is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-11is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-58is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-52is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-38is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-15is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-20is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-16-09is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-42is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-06is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-51is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-44is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-35is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-49is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-16-06is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-00is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-38is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-50is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-06is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-50is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-49is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-25is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-16-10is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-05is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-58is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-56is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-32is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-22is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-39is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-19is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-16is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-23is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-11is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-02is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-57is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-47is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-30is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-04is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-23is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-46is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-09is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-17is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-50is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-27is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-04is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-12is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-14is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-19is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-49is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-20is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-28is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-37is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-31is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-45is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-25is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-41is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-41is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-45is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-15-42is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-48is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-11-33is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-12-52is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-28is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-14-18is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-13-16is deleted
+/home/pi/dht-i2cpanel/save_log/2021-02-03-Wed-16-13is deleted
+2021-02-10 16:14:40.068112cpu temp : 43.3 
+temp and fan func : 4330 
+Serial value  : 40102620 
+Humd : 40.10 %  //  Temp : 26.20 C 
+
+2021-02-10 16:14:42.228731cpu temp : 42.8 
+temp and fan func : 4280 
+Serial value  : 40102608 
+Humd : 40.10 %  //  Temp : 26.08 C 
+
+2021-02-10 16:14:44.408500cpu temp : 43.8 
+temp and fan func : 4380 
+Serial value  : 40102620 
+Humd : 40.10 %  //  Temp : 26.20 C 
+
+2021-02-10 16:14:46.598393cpu temp : 44.3 
+temp and fan func : 4430 
+Serial value  : 40202632 
+Humd : 40.20 %  //  Temp : 26.32 C 
+
+2021-02-10 16:14:48.760919cpu temp : 44.3 
+temp and fan func : 4430 
+Serial value  : 40102620 
+Humd : 40.10 %  //  Temp : 26.20 C 
+
+2021-02-10 16:14:50.915277cpu temp : 42.8 
+temp and fan func : 4280 
+Serial value  : 40102620 
+Humd : 40.10 %  //  Temp : 26.20 C 
+
+2021-02-10 16:14:53.096077cpu temp : 43.3 
+temp and fan func : 4330 
+Serial value  : 40102620 
+Humd : 40.10 %  //  Temp : 26.20 C 
+
+2021-02-10 16:14:55.242365cpu temp : 43.3 
+temp and fan func : 4330 
+Serial value  : 40102620 
+Humd : 40.10 %  //  Temp : 26.20 C 
+
+2021-02-10 16:14:57.412975cpu temp : 43.8 
+temp and fan func : 4380 
+Serial value  : 40102620 
+Humd : 40.10 %  //  Temp : 26.20 C 
+
+2021-02-10 16:14:59.599483cpu temp : 42.8 
+temp and fan func : 4280 
+Serial value  : 40102620 
+Humd : 40.10 %  //  Temp : 26.20 C 
+
