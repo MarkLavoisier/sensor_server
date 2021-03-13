@@ -1,0 +1,156 @@
+2021-03-08 14:59:01.563125cpu temp : 41.3 
+temp and fan func : 4130 
+on time datedata : 14592Serial value  : 24602580 
+Humd : 24.60 %  //  Temp : 25.80 C 
+
+/home/pi/sensor_server/save_log/2021-03-01-Mon-14-58is deleted
+2021-03-08 14:59:03.721739cpu temp : 40.9 
+temp and fan func : 4090 
+on time datedata : 14592Serial value  : 24602590 
+Humd : 24.60 %  //  Temp : 25.90 C 
+
+2021-03-08 14:59:05.879277cpu temp : 40.9 
+temp and fan func : 4090 
+Serial value  : 24502580 
+Humd : 24.50 %  //  Temp : 25.80 C 
+
+2021-03-08 14:59:08.039001cpu temp : 41.3 
+temp and fan func : 4130 
+Serial value  : 24602590 
+Humd : 24.60 %  //  Temp : 25.90 C 
+
+2021-03-08 14:59:10.195757cpu temp : 40.9 
+temp and fan func : 4090 
+Serial value  : 24502580 
+Humd : 24.50 %  //  Temp : 25.80 C 
+
+2021-03-08 14:59:12.331937cpu temp : 40.4 
+temp and fan func : 4040 
+Serial value  : 24402580 
+Humd : 24.40 %  //  Temp : 25.80 C 
+
+2021-03-08 14:59:14.485274cpu temp : 41.3 
+temp and fan func : 4130 
+Serial value  : 24302580 
+Humd : 24.30 %  //  Temp : 25.80 C 
+
+2021-03-08 14:59:16.635658cpu temp : 42.3 
+temp and fan func : 4230 
+Serial value  : 24302580 
+Humd : 24.30 %  //  Temp : 25.80 C 
+
+2021-03-08 14:59:18.789545cpu temp : 40.9 
+temp and fan func : 4090 
+Serial value  : 24202580 
+Humd : 24.20 %  //  Temp : 25.80 C 
+
+2021-03-08 14:59:20.936960cpu temp : 40.9 
+temp and fan func : 4090 
+Serial value  : 24202580 
+Humd : 24.20 %  //  Temp : 25.80 C 
+
+2021-03-08 14:59:23.101671
+fan off 
+cpu temp : 39.9 
+temp and fan func : 3990 
+Serial value  : 24102580 
+Humd : 24.10 %  //  Temp : 25.80 C 
+
+2021-03-08 14:59:25.228302cpu temp : 40.9 
+temp and fan func : 4090 
+Serial value  : 24102580 
+Humd : 24.10 %  //  Temp : 25.80 C 
+
+2021-03-08 14:59:27.366800cpu temp : 40.4 
+temp and fan func : 4040 
+Serial value  : 24102580 
+Humd : 24.10 %  //  Temp : 25.80 C 
+
+2021-03-08 14:59:29.527663cpu temp : 40.4 
+temp and fan func : 4040 
+Serial value  : 24102580 
+Humd : 24.10 %  //  Temp : 25.80 C 
+
+2021-03-08 14:59:31.693281cpu temp : 40.4 
+temp and fan func : 4040 
+Serial value  : 24102580 
+Humd : 24.10 %  //  Temp : 25.80 C 
+
+2021-03-08 14:59:33.850314
+fan off 
+cpu temp : 39.9 
+temp and fan func : 3990 
+Serial value  : 24102580 
+Humd : 24.10 %  //  Temp : 25.80 C 
+
+2021-03-08 14:59:36.017401cpu temp : 40.9 
+temp and fan func : 4090 
+Serial value  : 24102580 
+Humd : 24.10 %  //  Temp : 25.80 C 
+
+2021-03-08 14:59:38.168091cpu temp : 40.4 
+temp and fan func : 4040 
+Serial value  : 24002580 
+Humd : 24.00 %  //  Temp : 25.80 C 
+
+2021-03-08 14:59:40.311364
+fan off 
+cpu temp : 39.9 
+temp and fan func : 3990 
+Serial value  : 24002580 
+Humd : 24.00 %  //  Temp : 25.80 C 
+
+2021-03-08 14:59:42.474647cpu temp : 40.4 
+temp and fan func : 4040 
+Serial value  : 24002580 
+Humd : 24.00 %  //  Temp : 25.80 C 
+
+2021-03-08 14:59:44.637529cpu temp : 40.9 
+temp and fan func : 4090 
+Serial value  : 23902580 
+Humd : 23.90 %  //  Temp : 25.80 C 
+
+2021-03-08 14:59:46.801182
+fan off 
+cpu temp : 38.9 
+temp and fan func : 3890 
+Serial value  : 23902580 
+Humd : 23.90 %  //  Temp : 25.80 C 
+
+2021-03-08 14:59:48.970306
+fan off 
+cpu temp : 39.9 
+temp and fan func : 3990 
+Serial value  : 23902580 
+Humd : 23.90 %  //  Temp : 25.80 C 
+
+2021-03-08 14:59:51.132807
+fan off 
+cpu temp : 39.9 
+temp and fan func : 3990 
+Serial value  : 23902580 
+Humd : 23.90 %  //  Temp : 25.80 C 
+
+2021-03-08 14:59:53.255583cpu temp : 40.4 
+temp and fan func : 4040 
+Serial value  : 23902580 
+Humd : 23.90 %  //  Temp : 25.80 C 
+
+2021-03-08 14:59:55.419132cpu temp : 40.4 
+temp and fan func : 4040 
+Serial value  : 24002580 
+Humd : 24.00 %  //  Temp : 25.80 C 
+
+2021-03-08 14:59:57.582504cpu temp : 40.9 
+temp and fan func : 4090 
+Serial value  : 24002570 
+Humd : 24.00 %  //  Temp : 25.70 C 
+
+2021-03-08 14:59:59.744360
+fan off 
+cpu temp : 39.4 
+temp and fan func : 3940 
+Serial value  : 24002570 
+Humd : 24.00 %  //  Temp : 25.70 C 
+
+/home/pi/sensor_server/save_log/2021-03-01-Mon-14-59is deleted

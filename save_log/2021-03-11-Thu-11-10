@@ -1,0 +1,156 @@
+2021-03-11 11:10:00.912960cpu temp : 47.7 
+temp and fan func : 4770 
+on time datedata : 11102Serial value  : 42702272 
+Humd : 42.70 %  //  Temp : 22.72 C 
+
+/home/pi/sensor_server/save_log/2021-03-04-Thu-11-09is deleted
+2021-03-11 11:10:03.115524cpu temp : 48.2 
+temp and fan func : 4820 
+on time datedata : 11102Serial value  : 42702272 
+Humd : 42.70 %  //  Temp : 22.72 C 
+
+2021-03-11 11:10:05.313353cpu temp : 49.1 
+temp and fan func : 4910 
+Serial value  : 42802280 
+Humd : 42.80 %  //  Temp : 22.80 C 
+
+2021-03-11 11:10:07.486989cpu temp : 48.2 
+temp and fan func : 4820 
+Serial value  : 42802280 
+Humd : 42.80 %  //  Temp : 22.80 C 
+
+2021-03-11 11:10:09.692214cpu temp : 49.6 
+temp and fan func : 4960 
+Serial value  : 42802280 
+Humd : 42.80 %  //  Temp : 22.80 C 
+
+2021-03-11 11:10:11.906333
+fan on 
+cpu temp : 50.6 
+temp and fan func : 5060 
+Serial value  : 42702272 
+Humd : 42.70 %  //  Temp : 22.72 C 
+
+2021-03-11 11:10:14.134715
+fan on 
+cpu temp : 50.6 
+temp and fan func : 5060 
+Serial value  : 42702272 
+Humd : 42.70 %  //  Temp : 22.72 C 
+
+2021-03-11 11:10:16.288264
+fan on 
+cpu temp : 50.1 
+temp and fan func : 5010 
+Serial value  : 42802280 
+Humd : 42.80 %  //  Temp : 22.80 C 
+
+2021-03-11 11:10:18.483512cpu temp : 48.7 
+temp and fan func : 4870 
+Serial value  : 42802280 
+Humd : 42.80 %  //  Temp : 22.80 C 
+
+2021-03-11 11:10:20.719977
+fan on 
+cpu temp : 50.6 
+temp and fan func : 5060 
+Serial value  : 42802280 
+Humd : 42.80 %  //  Temp : 22.80 C 
+
+2021-03-11 11:10:22.951967
+fan on 
+cpu temp : 51.6 
+temp and fan func : 5160 
+Serial value  : 42802280 
+Humd : 42.80 %  //  Temp : 22.80 C 
+
+2021-03-11 11:10:25.133214
+fan on 
+cpu temp : 50.1 
+temp and fan func : 5010 
+Serial value  : 42802280 
+Humd : 42.80 %  //  Temp : 22.80 C 
+
+2021-03-11 11:10:27.322855
+fan on 
+cpu temp : 50.1 
+temp and fan func : 5010 
+Serial value  : 42702272 
+Humd : 42.70 %  //  Temp : 22.72 C 
+
+2021-03-11 11:10:29.503589cpu temp : 48.7 
+temp and fan func : 4870 
+Serial value  : 42802280 
+Humd : 42.80 %  //  Temp : 22.80 C 
+
+2021-03-11 11:10:32.986285cpu temp : 48.7 
+temp and fan func : 4870 
+Serial value  : 42802280 
+Humd : 42.80 %  //  Temp : 22.80 C 
+
+2021-03-11 11:10:33.516712cpu temp : 49.1 
+temp and fan func : 4910 
+Serial value  : 42802280 
+Humd : 42.80 %  //  Temp : 22.80 C 
+
+2021-03-11 11:10:35.729153cpu temp : 49.6 
+temp and fan func : 4960 
+Serial value  : 42802280 
+Humd : 42.80 %  //  Temp : 22.80 C 
+
+2021-03-11 11:10:37.903348cpu temp : 49.1 
+temp and fan func : 4910 
+Serial value  : 42802280 
+Humd : 42.80 %  //  Temp : 22.80 C 
+
+2021-03-11 11:10:40.101162cpu temp : 49.1 
+temp and fan func : 4910 
+Serial value  : 42702272 
+Humd : 42.70 %  //  Temp : 22.72 C 
+
+2021-03-11 11:10:42.297672cpu temp : 48.2 
+temp and fan func : 4820 
+Serial value  : 42702272 
+Humd : 42.70 %  //  Temp : 22.72 C 
+
+2021-03-11 11:10:44.495038cpu temp : 48.2 
+temp and fan func : 4820 
+Serial value  : 42802280 
+Humd : 42.80 %  //  Temp : 22.80 C 
+
+2021-03-11 11:10:46.689854cpu temp : 48.7 
+temp and fan func : 4870 
+Serial value  : 42702272 
+Humd : 42.70 %  //  Temp : 22.72 C 
+
+2021-03-11 11:10:48.908793cpu temp : 47.2 
+temp and fan func : 4720 
+Serial value  : 42802280 
+Humd : 42.80 %  //  Temp : 22.80 C 
+
+2021-03-11 11:10:51.095898cpu temp : 48.2 
+temp and fan func : 4820 
+Serial value  : 42802280 
+Humd : 42.80 %  //  Temp : 22.80 C 
+
+2021-03-11 11:10:53.285006cpu temp : 48.2 
+temp and fan func : 4820 
+Serial value  : 42702272 
+Humd : 42.70 %  //  Temp : 22.72 C 
+
+2021-03-11 11:10:55.481570cpu temp : 46.7 
+temp and fan func : 4670 
+Serial value  : 42702272 
+Humd : 42.70 %  //  Temp : 22.72 C 
+
+2021-03-11 11:10:57.645792cpu temp : 47.7 
+temp and fan func : 4770 
+Serial value  : 42802280 
+Humd : 42.80 %  //  Temp : 22.80 C 
+
+2021-03-11 11:10:59.804289cpu temp : 47.7 
+temp and fan func : 4770 
+Serial value  : 42702272 
+Humd : 42.70 %  //  Temp : 22.72 C 
+
+/home/pi/sensor_server/save_log/2021-03-04-Thu-11-10is deleted

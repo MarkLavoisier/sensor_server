@@ -70,7 +70,7 @@ while True:
 			print ("fan on")
 			GPIO.output(cpu_pin,0)
 			log_file.write('\nfan on \n') 
-		elif c_t <= 44 :
+		elif c_t <= 40 :
 			fan_operate=1
 			print ("fan off")
 			GPIO.output(cpu_pin,1)
