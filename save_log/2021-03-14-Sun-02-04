@@ -1,0 +1,1153 @@
+2021-03-14 02:04:12.204557
+fan off 
+cpu temp : 42.3 
+temp and fan func : 4230 
+Serial value  : 47202688 
+Humd : 47.20 %  //  Temp : 26.88 C 
+
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-25is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-56is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-51is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-39is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-08is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-35is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-39is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-51is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-10is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-25is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-58is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-14is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-57is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-43is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-29is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-30is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-09-38is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-40is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-21is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-12is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-30is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-21is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-51is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-20is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-03is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-16is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-02is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-43is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-30is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-15is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-05is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-36is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-41is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-10is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-45is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-40is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-41is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-44is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-29is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-30is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-20is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-54is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-19is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-54is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-45is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-57is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-02is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-41is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-34is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-16is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-28is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-21is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-15is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-29is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-05is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-07is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-15is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-55is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-26is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-09is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-29is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-09-39is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-56is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-57is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-47is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-27is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-08is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-14is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-51is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-09is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-43is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-03is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-29is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-40is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-22is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-30is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-26is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-36is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-07is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-15is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-32is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-09is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-39is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-50is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-40is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-49is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-28is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-41is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-42is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-02is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-44is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-09is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-51is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-31is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-50is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-13is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-44is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-32is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-05is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-50is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-58is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-10is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-07is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-48is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-36is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-25is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-41is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-53is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-02is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-23is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-25is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-42is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-18is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-04is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-06is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-08is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-23is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-27is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-54is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-32is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-39is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-36is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-08is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-09is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-22is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-34is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-59is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-39is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-59is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-17is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-09-36is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-45is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-59is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-42is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-55is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-30is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-33is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-19is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-27is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-26is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-27is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-58is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-04is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-44is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-46is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-05is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-06is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-09is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-08is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-20is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-07is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-33is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-32is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-38is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-51is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-46is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-24is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-06is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-22is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-29is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-58is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-05is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-19is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-11is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-55is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-17is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-27is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-59is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-35is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-47is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-12is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-52is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-49is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-14is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-14is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-12is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-27is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-40is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-02-02is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-49is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-13is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-31is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-09is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-58is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-46is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-49is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-09-41is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-44is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-33is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-36is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-51is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-42is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-01is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-46is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-51is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-41is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-37is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-57is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-33is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-33is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-22is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-34is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-19is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-02-00is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-40is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-32is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-42is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-37is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-45is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-23is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-10is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-00is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-21is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-45is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-38is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-32is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-46is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-06is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-09-37is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-37is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-46is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-47is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-20is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-07is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-41is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-13is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-47is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-34is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-09-46is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-46is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-30is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-30is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-26is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-38is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-38is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-56is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-01is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-25is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-36is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-28is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-22is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-13is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-53is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-35is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-16is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-03is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-34is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-00is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-45is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-56is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-43is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-17is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-07is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-36is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-54is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-03is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-21is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-50is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-36is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-51is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-19is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-34is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-36is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-33is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-33is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-14is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-09is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-04is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-22is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-06is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-17is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-18is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-45is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-10is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-09-52is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-15is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-01is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-36is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-09-44is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-53is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-03is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-59is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-58is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-52is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-26is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-00is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-14is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-34is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-37is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-06is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-56is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-36is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-31is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-30is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-30is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-11is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-53is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-29is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-33is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-23is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-52is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-11is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-38is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-50is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-52is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-46is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-28is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-48is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-50is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-52is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-23is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-33is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-44is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-25is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-08is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-42is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-04is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-15is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-35is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-15is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-51is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-10is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-00is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-25is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-35is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-50is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-24is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-04is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-20is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-11is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-20is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-43is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-26is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-46is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-27is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-19is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-23is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-35is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-09-47is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-23is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-00is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-42is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-08is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-30is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-18is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-44is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-43is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-28is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-00is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-25is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-45is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-38is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-35is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-20is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-21is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-09-55is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-03is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-29is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-37is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-21is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-26is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-01is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-22is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-09-33is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-15is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-57is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-01is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-45is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-52is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-12is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-13is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-46is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-03is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-27is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-50is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-18is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-17is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-48is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-12is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-53is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-55is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-09is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-39is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-39is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-56is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-01is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-13is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-17is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-55is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-09-35is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-11is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-16is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-55is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-39is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-48is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-02is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-17is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-28is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-03is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-48is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-00is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-42is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-19is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-45is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-53is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-13is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-53is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-00is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-27is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-34is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-09-56is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-20is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-58is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-56is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-55is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-48is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-34is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-06is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-36is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-20is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-17is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-32is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-01is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-53is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-02is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-45is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-11is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-57is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-17is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-49is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-46is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-15is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-52is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-12is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-16is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-03is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-54is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-45is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-36is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-14is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-15is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-57is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-23is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-59is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-44is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-08is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-28is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-54is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-25is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-47is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-09is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-44is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-28is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-18is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-34is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-11is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-12is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-31is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-05is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-35is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-07is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-29is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-14is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-09-45is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-02is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-57is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-18is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-31is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-52is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-40is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-26is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-47is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-46is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-12is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-38is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-41is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-59is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-57is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-37is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-25is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-03is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-01is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-16is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-50is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-21is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-22is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-20is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-17is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-40is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-56is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-17is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-13is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-21is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-16is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-49is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-47is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-49is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-09is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-58is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-16is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-06is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-16is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-53is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-20is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-33is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-01is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-50is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-31is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-33is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-11is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-40is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-18is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-25is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-16is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-42is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-12is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-28is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-38is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-44is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-10is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-21is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-54is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-18is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-08is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-09-50is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-19is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-09is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-31is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-08is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-03is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-34is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-13is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-38is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-31is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-06is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-53is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-26is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-26is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-23is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-46is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-06is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-40is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-29is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-41is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-04is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-08is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-22is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-48is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-58is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-08is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-24is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-41is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-37is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-55is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-42is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-55is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-59is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-56is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-21is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-35is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-23is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-54is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-42is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-03is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-13is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-41is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-20is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-10is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-04is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-44is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-22is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-28is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-19is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-51is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-26is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-30is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-21is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-35is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-04is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-09is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-43is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-10is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-14is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-18is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-07is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-45is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-43is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-14is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-40is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-51is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-32is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-44is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-39is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-30is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-50is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-43is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-24is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-09is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-46is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-39is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-53is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-05is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-27is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-37is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-06is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-41is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-00is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-38is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-23is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-34is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-02is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-05is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-59is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-24is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-06is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-50is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-49is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-17is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-17is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-54is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-07is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-03is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-35is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-59is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-18is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-00is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-15is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-15is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-28is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-22is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-37is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-12is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-24is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-23is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-27is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-54is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-13is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-27is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-58is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-48is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-21is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-24is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-53is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-16is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-02is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-04is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-48is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-55is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-37is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-09-49is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-20is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-43is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-57is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-07is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-52is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-32is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-30is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-13is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-57is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-36is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-55is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-31is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-09-40is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-53is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-55is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-19is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-17is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-05is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-39is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-00is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-50is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-56is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-53is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-07is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-00is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-27is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-18is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-09-43is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-09-51is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-02is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-06is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-54is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-47is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-09-57is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-50is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-02is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-22is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-15is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-32is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-09-42is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-37is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-50is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-29is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-48is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-11is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-47is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-28is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-22is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-48is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-37is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-15is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-31is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-43is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-55is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-13is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-49is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-10is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-16is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-09-34is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-07is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-15is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-47is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-01is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-25is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-20is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-05is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-19is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-02is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-29is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-56is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-11is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-47is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-42is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-35is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-38is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-58is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-29is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-44is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-34is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-56is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-51is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-26is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-06is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-22is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-41is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-30is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-57is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-02is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-24is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-14is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-40is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-26is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-27is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-04is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-59is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-54is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-33is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-45is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-54is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-33is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-52is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-14is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-12is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-49is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-52is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-33is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-20is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-24is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-04is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-03is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-43is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-16is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-59is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-49is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-11is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-31is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-54is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-52is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-02-01is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-38is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-28is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-32is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-52is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-20is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-12is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-40is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-06is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-16is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-16is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-59is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-18is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-17is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-28is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-27is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-28is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-31is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-23is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-11is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-25is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-58is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-08is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-04is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-49is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-24is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-57is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-29is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-37is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-24is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-26is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-48is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-29is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-25is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-34is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-26is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-39is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-09is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-59is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-49is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-46is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-18is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-01is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-23is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-12is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-06is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-32is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-21is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-48is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-43is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-59is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-43is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-44is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-49is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-05is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-03is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-19is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-24is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-10is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-38is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-46is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-35is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-07is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-09is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-42is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-01is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-59is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-23is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-32is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-10is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-04is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-30is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-05is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-57is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-42is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-44is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-45is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-11is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-57is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-31is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-01is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-38is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-11is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-39is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-10is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-31is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-29is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-02is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-21is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-47is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-27is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-14is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-19is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-09-58is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-33is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-36is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-49is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-26is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-24is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-31is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-54is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-00is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-10is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-00is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-50is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-03is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-01is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-35is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-05is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-56is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-41is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-44is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-10is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-08is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-54is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-41is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-12is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-18is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-19is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-32is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-31is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-18is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-25is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-35is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-48is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-16is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-51is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-12is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-09-53is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-58is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-43is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-55is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-56is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-43is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-51is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-49is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-17is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-21is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-05is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-24is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-33is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-58is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-38is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-05is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-41is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-05is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-01is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-32is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-22is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-47is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-48is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-08is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-24is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-42is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-53is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-14is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-39is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-00is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-52is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-09-54is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-24is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-52is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-48is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-58is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-09-48is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-37is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-53is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-02is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-21-19is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-58is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-56is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-07is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-09-59is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-11is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-40is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-19is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-10is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-04is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-14is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-37is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-39is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-15is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-04is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-18is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-56is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-34is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-13is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-38is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-13is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-47is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-23-04is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-14is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-22-55is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-13-39is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-11-40is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-19-07is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-14-36is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-34is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-12is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-47is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-47is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-52is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-25is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-42is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-16-07is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-00is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-13is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-22is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-02is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-51is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-32is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-02-03is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-01-35is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-12-37is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-55is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-08is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-23is deleted
+/home/pi/sensor_server/save_log/2021-03-07-Sun-00-01is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-15-11is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-10-40is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-17-45is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-20-28is deleted
+/home/pi/sensor_server/save_log/2021-03-06-Sat-18-57is deleted
+2021-03-14 02:04:14.477312
+fan off 
+cpu temp : 44.8 
+temp and fan func : 4480 
+Serial value  : 47202688 
+Humd : 47.20 %  //  Temp : 26.88 C 
+
+2021-03-14 02:04:15.424407
+fan off 
+cpu temp : 43.3 
+temp and fan func : 4330 
+Serial value  : 47202688 
+Humd : 47.20 %  //  Temp : 26.88 C 
+
+2021-03-14 02:04:17.506970
+fan off 
+cpu temp : 44.3 
+temp and fan func : 4430 
+Serial value  : 47202688 
+Humd : 47.20 %  //  Temp : 26.88 C 
+
+2021-03-14 02:04:19.636935
+fan off 
+cpu temp : 43.3 
+temp and fan func : 4330 
+Serial value  : 47202688 
+Humd : 47.20 %  //  Temp : 26.88 C 
+
+2021-03-14 02:04:21.743516
+fan off 
+cpu temp : 43.8 
+temp and fan func : 4380 
+Serial value  : 47202688 
+Humd : 47.20 %  //  Temp : 26.88 C 
+
+2021-03-14 02:04:23.925820
+fan off 
+cpu temp : 43.8 
+temp and fan func : 4380 
+Serial value  : 47202688 
+Humd : 47.20 %  //  Temp : 26.88 C 
+
+2021-03-14 02:04:26.018863
+fan off 
+cpu temp : 43.8 
+temp and fan func : 4380 
+Serial value  : 47202688 
+Humd : 47.20 %  //  Temp : 26.88 C 
+
+2021-03-14 02:04:28.124443
+fan off 
+cpu temp : 44.8 
+temp and fan func : 4480 
+Serial value  : 47202688 
+Humd : 47.20 %  //  Temp : 26.88 C 
+
+2021-03-14 02:04:30.303125
+fan off 
+cpu temp : 45.7 
+temp and fan func : 4570 
+Serial value  : 47202700 
+Humd : 47.20 %  //  Temp : 27.00 C 
+
+2021-03-14 02:04:32.486429
+fan off 
+cpu temp : 47.2 
+temp and fan func : 4720 
+Serial value  : 47202700 
+Humd : 47.20 %  //  Temp : 27.00 C 
+
+2021-03-14 02:04:34.753672
+fan off 
+cpu temp : 48.2 
+temp and fan func : 4820 
+Serial value  : 47202688 
+Humd : 47.20 %  //  Temp : 26.88 C 
+
+2021-03-14 02:04:36.903569
+fan off 
+cpu temp : 47.7 
+temp and fan func : 4770 
+Serial value  : 47202700 
+Humd : 47.20 %  //  Temp : 27.00 C 
+
+2021-03-14 02:04:39.084649
+fan off 
+cpu temp : 47.7 
+temp and fan func : 4770 
+Serial value  : 47202688 
+Humd : 47.20 %  //  Temp : 26.88 C 
+
+2021-03-14 02:04:41.302321
+fan off 
+cpu temp : 48.2 
+temp and fan func : 4820 
+Serial value  : 47202700 
+Humd : 47.20 %  //  Temp : 27.00 C 
+
+2021-03-14 02:04:43.523493
+fan off 
+cpu temp : 48.7 
+temp and fan func : 4870 
+Serial value  : 47102688 
+Humd : 47.10 %  //  Temp : 26.88 C 
+
+2021-03-14 02:04:45.689783
+fan off 
+cpu temp : 49.6 
+temp and fan func : 4960 
+Serial value  : 47102688 
+Humd : 47.10 %  //  Temp : 26.88 C 
+
+2021-03-14 02:04:47.865579
+fan off 
+cpu temp : 48.7 
+temp and fan func : 4870 
+Serial value  : 47102688 
+Humd : 47.10 %  //  Temp : 26.88 C 
+
+2021-03-14 02:04:50.018281
+fan off 
+cpu temp : 50.1 
+temp and fan func : 5010 
+Serial value  : 47102688 
+Humd : 47.10 %  //  Temp : 26.88 C 
+
+2021-03-14 02:04:52.191674
+fan off 
+cpu temp : 50.1 
+temp and fan func : 5010 
+Serial value  : 47102688 
+Humd : 47.10 %  //  Temp : 26.88 C 
+
+2021-03-14 02:04:54.383741
+fan off 
+cpu temp : 50.6 
+temp and fan func : 5060 
+Serial value  : 47202700 
+Humd : 47.20 %  //  Temp : 27.00 C 
+
+2021-03-14 02:04:56.507956
+fan off 
+cpu temp : 49.1 
+temp and fan func : 4910 
+Serial value  : 47102688 
+Humd : 47.10 %  //  Temp : 26.88 C 
+
+2021-03-14 02:04:58.661016
+fan off 
+cpu temp : 50.1 
+temp and fan func : 5010 
+Serial value  : 47102688 
+Humd : 47.10 %  //  Temp : 26.88 C 
+
+/home/pi/sensor_server/save_log/2021-03-07-Sun-02-04is deleted
