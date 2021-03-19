@@ -6,7 +6,7 @@ import os
 import RPi.GPIO as GPIO
 import socket
 
-HOST  = '39.124.30.123'
+HOST  = '39.124.30.130'
 PORT = 5055
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
