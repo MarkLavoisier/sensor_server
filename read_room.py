@@ -1,3 +1,6 @@
+#rm temp
+#just time 
+
 import serial
 import time
 from  mail import sendEmail
@@ -6,24 +9,24 @@ import os
 import RPi.GPIO as GPIO
 import socket
 
-HOST  = '39.124.30.130'
-PORT = 5055
+#HOST  = '39.124.30.130'
+#PORT = 5055
 
-s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-print("socket created")
+#s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+#print("socket created")
 
-try:
-	s.bind((HOST, PORT))
-except socket.error:
-	print ('Bind failed ')
+#try:
+#	s.bind((HOST, PORT))
+#except socket.error:
+#	print ('Bind failed ')
 
-s.listen(5)
-print ('Socket awaiting messages')
-(conn, addr) = s.accept()
-print ('Connected')
+#s.listen(5)
+#print ('Socket awaiting messages')
+#(conn, addr) = s.accept()
+#print ('Connected')
 
 GPIO.setwarnings(False)
-ser = serial.Serial('/dev/ttyUSB0',9600)
+#ser = serial.Serial('/dev/ttyUSB0',9600)
 valtime=600
 prev=0
 datedata_1= None
@@ -87,72 +90,8 @@ while True:
 	
 	result=(float(result)*100) #+fan_operate
 
-#	datedata = datetime.datetime.now().strftime("%m%d0%w%H%M%S")
-	if state == 1:
-		datedata_1 = datetime.datetime.now().strftime("%m%d1")
-		print ("datedata_1 : " + datedata_1)
-		state = 2
-	elif state ==2 :
-		datedata_2 = datetime.datetime.now().strftime("%H%M2")
-		print ("datedata_2 : " + datedata_2)
-		state = 3
-	elif state == 3:
-		datedata_3 = datetime.datetime.now().strftime("%w4")
-		print ("datedata_3 : " + datedata_3)
-		state = 1
-#	print ("server print : " + datedata_1)
-#	print ("server print : " + datedata_2)
-#	print ("temp and fan func : %4.0f" % result)
-	t_f_func = "temp and fan func : %4.0f \n" % result
-	log_file.write(t_f_func)
-	#ser.write(str(result).encode("utf-8"))
-	if int(datetime.datetime.now().strftime("%S")) <= 4:
-		datedata_2 = datetime.datetime.now().strftime("%H%M2")
-		print ("on time datedata : " + datedata_2)
-		msg = "on time datedata : " + datedata_2
-		log_file.write(msg)
-		ser.write(str(datedata_2).encode("utf-8"))
-		
-	else:
-		if state == 1:
-			ser.write(str(datedata_1).encode("utf-8"))
-		elif state == 2:
-			ser.write(str(datedata_2).encode("utf-8"))
-		elif state == 3:
-			ser.write(str(datedata_3).encode("utf-8"))
-	
-	val = ser.readline()
-	os.system("clear")
-	svr = val.decode()[:-2]
-#	i_svr = int(svr)
-#	print (i_svr)
-	f_svr = float(svr)
-	print (int(f_svr))
-	
-	str_f_svr = str(int(f_svr))
-	#conn.sendall(str_f_svr.encode('utf-8'))
-	#now=time.time()
-	#if now-delay>:
-	#	delay=now
-	conn.sendall(str_f_svr.encode('utf-8'))
-	print("socket send !-----------------------")
-	
-#	print ("Server Serial value  : %8.0f" % f_svr)
-	serial_val = "Serial value  : %8.0f \n" % f_svr
-	log_file.write(serial_val)
-	
-	h = ( f_svr / 10000) * 0.01
-	t = ( f_svr % 10000) * 0.01
-	print ("Humd : %2.2f %%" % h+"  //  Temp : %2.2f C" % t)
-	
-	t_h_log = "Humd : %2.2f %%" % h+"  //  Temp : %2.2f C \n" % t
-	log_file.write(t_h_log)
-#	if time.time()-prev > valtime:
-#		prev=time.time()
-#		sendEmail(h,t,c_t)
-#		print ("done-------------------------------------------------------!")
-#		log_file.write('done--------------------------------------!')
-#	print (" ")
+#	os.system("clear")
+
 	log_file.write('\n')
 
 	for f in os.listdir(path_target):
@@ -167,4 +106,4 @@ while True:
 				log_file.write(f_rm)
 
 	log_file.close()
-conn.close() 
+#conn.close() 
