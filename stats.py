@@ -85,8 +85,8 @@ x = 0
 font = ImageFont.truetype('VCR_OSD_MONO_1.001.ttf', 16)
 
 
-HOST = '39.124.30.123'
-PORT = 5055
+HOST = '**.**.**.**'  #host IP
+PORT = **** # port
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 s.connect((HOST,PORT))
@@ -133,6 +133,7 @@ while True:
     disp.display()
     log_file.close()
 
+    #delete function
     for f in os.listdir(path_log):
          f = os.path.join(path_log, f)
          if os.path.isfile(f):
