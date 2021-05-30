@@ -68,12 +68,13 @@ while True:
 			log_file.write('\nfan off \n')
 		 
 	else:
-		if c_t >= 50: #fan func
+		if c_t >= 55: #fan func
 			fan_operate=2
 			print ("fan on")
 			GPIO.output(cpu_pin,0)
 			log_file.write('\nfan on \n') 
-		elif c_t <= 40 :
+		elif c_t <= 48 :
+#		else:
 			fan_operate=1
 			print ("fan off")
 			GPIO.output(cpu_pin,1)
