@@ -33,7 +33,7 @@ datedata_1= None
 datedata_2= None
 datedata_3 =None
 days_elapsed=7
-path_target = '/home/pi/sensor_server/save_log/'
+path_target = '/home/pi/my_github_project/sensor_server/save_log/'
 state =1
 
 delay=0
@@ -48,7 +48,7 @@ while True:
 #	os.system("clear")
 	print (str(datetime.datetime.now())) #date and time
 	f_time_title_name = datetime.datetime.now().strftime("%Y-%m-%d-%a-%H-%M")
-	path = '/home/pi/sensor_server/save_log/'
+	path = '/home/pi/my_github_project/sensor_server/save_log/'
 	f_n = path+f_time_title_name
 	log_file = open(f_n,'a')
 	f_log_time = str(datetime.datetime.now())
